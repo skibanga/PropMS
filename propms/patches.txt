@@ -1,1 +1,2 @@
 propms.patches.custom_fields.custom_fields
+propms.patches.property_setter.property_setter
